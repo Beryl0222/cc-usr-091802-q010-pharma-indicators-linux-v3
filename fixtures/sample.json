@@ -1,0 +1,10 @@
+{
+  "plan": "pharma-industry-2026-2030",
+  "target_year": 2030,
+  "indicators": [
+    {"code": "industry-revenue", "target": 35000, "unit": "100-million-cny"},
+    {"code": "fic-global-share", "target": 25, "unit": "percent"},
+    {"code": "innovative-device-approvals", "target": 200, "unit": "count"},
+    {"code": "companies-over-10b", "target": 50, "unit": "count"}
+  ]
+}
