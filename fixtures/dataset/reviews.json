@@ -1,0 +1,30 @@
+[
+  {
+    "kind": "review", "id": "RV-HLX001-SCI", "candidate_id": "CD-HLX001",
+    "review_type": "science", "reviewer": "科学复核组（周博士）",
+    "decision": "approved", "opinion_id": null, "rulebook_version": "RB-2026",
+    "comment": "KLK5 新靶点首创证据链完整，同行评议论文与发现日期可相互印证",
+    "source_id": "S-REVIEW"
+  },
+  {
+    "kind": "review", "id": "RV-HLX001-STAT", "candidate_id": "CD-HLX001",
+    "review_type": "stats", "reviewer": "统计复核组（吴统计师）",
+    "decision": "approved", "opinion_id": null, "rulebook_version": "RB-2026",
+    "comment": "去重、抵销与币种财年口径核对无误，全球销售来源链闭合",
+    "source_id": "S-REVIEW"
+  },
+  {
+    "kind": "review", "id": "RV-NG07-SCI", "candidate_id": "CD-NG07",
+    "review_type": "science", "reviewer": "科学复核组（郑博士）",
+    "decision": "approved", "opinion_id": null, "rulebook_version": "RB-2026",
+    "comment": "IL-17A/F 双抗机制为首创，发现记录早于同类",
+    "source_id": "S-REVIEW"
+  },
+  {
+    "kind": "review", "id": "RV-NG07-STAT", "candidate_id": "CD-NG07",
+    "review_type": "stats", "reviewer": "统计复核组（吴统计师）",
+    "decision": "approved", "opinion_id": null, "rulebook_version": "RB-2026",
+    "comment": "并购生效区间前后集团归属处理正确，集团内部销售已抵销",
+    "source_id": "S-REVIEW"
+  }
+]

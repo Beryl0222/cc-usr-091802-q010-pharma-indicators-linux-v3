@@ -1,0 +1,6 @@
+[
+  {"kind": "compound", "id": "CMP-KLK5", "name": "可利珠肽（化名）", "aliases": ["KLK5-inhibitor-X", "HLX-mol-001", "カリクレイン5阻害剤"], "cas": "0000-00-1", "molecular_target": "KLK5", "modality": "small-molecule"},
+  {"kind": "compound", "id": "CMP-BRAF2", "name": "BRaf 类似物（化名）", "aliases": ["KS-mol-22"], "cas": "0000-00-2", "molecular_target": "BRAF", "modality": "small-molecule"},
+  {"kind": "compound", "id": "CMP-IL17", "name": "IL-17 双抗（化名）", "aliases": ["NG-mol-7"], "cas": "0000-00-3", "molecular_target": "IL-17RA", "modality": "bi-specific-antibody"},
+  {"kind": "compound", "id": "CMP-X9", "name": "化合物 X9（争议品种，化名）", "aliases": ["X-nine"], "cas": "0000-00-9", "molecular_target": "X9", "modality": "small-molecule"}
+]

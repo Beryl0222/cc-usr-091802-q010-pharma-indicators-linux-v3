@@ -1,0 +1,48 @@
+{
+  "versions": [
+    {
+      "version": "RB-2026",
+      "recorded_at": "2026-01-01T00:00:00Z",
+      "anchor_ccy": "CNY",
+      "note": "2026 监测年度基线换算规则：年末汇率；日本财年历表；地域口径表",
+      "fx_rates": [
+        {"base_date": "2025-12-31", "source_ccy": "USD", "target_ccy": "CNY", "rate": 7.10},
+        {"base_date": "2025-12-31", "source_ccy": "EUR", "target_ccy": "CNY", "rate": 7.80},
+        {"base_date": "2025-12-31", "source_ccy": "JPY", "target_ccy": "CNY", "rate": 0.048}
+      ],
+      "fiscal_calendars": {
+        "P-KANSAI": {
+          "FY2025JP": {"period_key": "FY2025", "start": "2025-04-01", "end": "2026-03-31"}
+        }
+      },
+      "region_aliases": {
+        "CN": ["China", "中国", "中国大陆", "Chinese Mainland"],
+        "US": ["United States", "USA", "美国", "U.S."],
+        "EU": ["Europe", "Eurozone", "欧盟", "欧洲"],
+        "JP": ["Japan", "日本"]
+      }
+    },
+    {
+      "version": "RB-2027",
+      "recorded_at": "2027-01-01T00:00:00Z",
+      "anchor_ccy": "CNY",
+      "note": "2027 版仅更新汇率；旧快照仍钉住 RB-2026，数字不变",
+      "fx_rates": [
+        {"base_date": "2026-12-31", "source_ccy": "USD", "target_ccy": "CNY", "rate": 7.00},
+        {"base_date": "2026-12-31", "source_ccy": "EUR", "target_ccy": "CNY", "rate": 7.60},
+        {"base_date": "2026-12-31", "source_ccy": "JPY", "target_ccy": "CNY", "rate": 0.047}
+      ],
+      "fiscal_calendars": {
+        "P-KANSAI": {
+          "FY2025JP": {"period_key": "FY2025", "start": "2025-04-01", "end": "2026-03-31"}
+        }
+      },
+      "region_aliases": {
+        "CN": ["China", "中国", "中国大陆", "Chinese Mainland"],
+        "US": ["United States", "USA", "美国", "U.S."],
+        "EU": ["Europe", "Eurozone", "欧盟", "欧洲"],
+        "JP": ["Japan", "日本"]
+      }
+    }
+  ]
+}

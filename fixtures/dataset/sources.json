@@ -1,0 +1,17 @@
+[
+  {"kind": "source", "id": "S-AR-HELIX", "title": "Helix 2025 年度报告", "publisher": "Helix 赫利克斯制药", "doc_type": "annual-report", "published_on": "2026-03-15", "fiscal_year_label": "FY2025"},
+  {"kind": "source", "id": "S-AR-BRX", "title": "BiogenRx 2025 Annual Report (10-K)", "publisher": "BiogenRx Inc.", "doc_type": "annual-report", "published_on": "2026-02-20", "fiscal_year_label": "FY2025"},
+  {"kind": "source", "id": "S-AR-GIANT", "title": "Giant Pharma Group Annual Report", "publisher": "Giant Pharma Group", "doc_type": "annual-report", "published_on": "2026-02-28", "fiscal_year_label": "FY2025"},
+  {"kind": "source", "id": "S-AR-KANSAI", "title": "関西製薬 有価証券報告書 FY2025", "publisher": "Kansai Pharma KK", "doc_type": "annual-report", "published_on": "2026-06-25", "fiscal_year_label": "FY2025JP"},
+  {"kind": "source", "id": "S-NMPA", "title": "NMPA 药品批准证明文件", "publisher": "国家药品监督管理局", "doc_type": "regulator", "published_on": "2025-06-30"},
+  {"kind": "source", "id": "S-FDA", "title": "FDA Approval Letter", "publisher": "U.S. Food and Drug Administration", "doc_type": "regulator", "published_on": "2025-09-12"},
+  {"kind": "source", "id": "S-FDA-CORR", "title": "FDA Approval Date Correction Notice", "publisher": "U.S. Food and Drug Administration", "doc_type": "regulator", "published_on": "2025-11-02"},
+  {"kind": "source", "id": "S-PMDA", "title": "PMDA 承認証 (後着の海外証拠)", "publisher": "独立行政法人 医薬品医療機器総合機構", "doc_type": "regulator", "published_on": "2027-02-10"},
+  {"kind": "source", "id": "S-PRESS-HELIX", "title": "Helix 全球首创机制新闻稿", "publisher": "Helix 赫利克斯制药", "doc_type": "press-release", "published_on": "2025-07-05"},
+  {"kind": "source", "id": "S-JOURNAL", "title": "Novel KLK5 mechanism peer-reviewed paper", "publisher": "Journal of Novel Therapeutics", "doc_type": "press-release", "published_on": "2023-05-01"},
+  {"kind": "source", "id": "S-PRESS-BRX", "title": "BiogenRx originality claim press release", "publisher": "BiogenRx Inc.", "doc_type": "press-release", "published_on": "2025-08-01"},
+  {"kind": "source", "id": "S-CONTRACT", "title": "未公开区域许可与分成合同 (保密)", "publisher": "Helix / BiogenRx", "doc_type": "contract", "published_on": "2022-04-01", "confidential": true, "clearance_required": 2},
+  {"kind": "source", "id": "S-MNA", "title": "Giant 收购 Nordic 公告", "publisher": "Giant Pharma Group", "doc_type": "press-release", "published_on": "2025-07-01"},
+  {"kind": "source", "id": "S-RESTATE", "title": "Helix 2025 年报重述公告", "publisher": "Helix 赫利克斯制药", "doc_type": "annual-report", "published_on": "2026-09-01", "fiscal_year_label": "FY2025"},
+  {"kind": "source", "id": "S-REVIEW", "title": "规划监测办公室复核记录", "publisher": "医药工业规划监测办公室", "doc_type": "internal", "published_on": "2026-10-01"}
+]

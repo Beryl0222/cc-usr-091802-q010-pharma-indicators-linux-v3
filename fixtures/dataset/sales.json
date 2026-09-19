@@ -1,0 +1,70 @@
+[
+  {
+    "kind": "salesdisclosure", "id": "SL-HLX001-CN-2025", "candidate_id": "CD-HLX001",
+    "party_id": "P-HELIX", "region": "CN", "period_key": "FY2025",
+    "fiscal_year_label": "FY2025", "period_start": "2025-01-01", "period_end": "2025-12-31",
+    "currency": "CNY", "amount": 2100000000, "revenue_kind": "booked",
+    "source_id": "S-AR-HELIX"
+  },
+  {
+    "kind": "salesdisclosure", "id": "SL-HLX001-US-ROY-2025", "candidate_id": "CD-HLX001",
+    "party_id": "P-HELIX", "region": "US", "period_key": "FY2025",
+    "fiscal_year_label": "FY2025", "period_start": "2025-01-01", "period_end": "2025-12-31",
+    "currency": "USD", "amount": 180000000, "revenue_kind": "royalty",
+    "source_id": "S-AR-HELIX", "note": "让渡美国权利后取得的权利金，不重复计入全球产品销售"
+  },
+  {
+    "kind": "salesdisclosure", "id": "SL-BRX-US-2025", "candidate_id": "CD-HLX001",
+    "party_id": "P-BRX", "region": "US", "period_key": "FY2025",
+    "fiscal_year_label": "FY2025", "period_start": "2025-01-01", "period_end": "2025-12-31",
+    "currency": "USD", "amount": 1300000000, "revenue_kind": "booked",
+    "source_id": "S-AR-BRX", "note": "BiogenRx 依美国许可确认的产品销售"
+  },
+  {
+    "kind": "salesdisclosure", "id": "SL-NG07-US-2025", "candidate_id": "CD-NG07",
+    "party_id": "P-NORDIC", "region": "US", "period_key": "FY2025",
+    "fiscal_year_label": "FY2025", "period_start": "2025-01-01", "period_end": "2025-12-31",
+    "currency": "USD", "amount": 1500000000, "revenue_kind": "booked",
+    "source_id": "S-AR-GIANT"
+  },
+  {
+    "kind": "salesdisclosure", "id": "SL-NG07-SUB-EU-H1", "candidate_id": "CD-NG07",
+    "party_id": "P-NORDIC-SUB", "region": "EU", "period_key": "FY2025",
+    "fiscal_year_label": "FY2025", "period_start": "2025-01-01", "period_end": "2025-06-30",
+    "currency": "EUR", "amount": 200000000, "revenue_kind": "booked",
+    "counterparty_party_id": "P-NORDIC",
+    "source_id": "S-AR-GIANT", "note": "北欧销售子公司对母公司的欧洲销售（集团内部，应抵销）"
+  },
+  {
+    "kind": "salesdisclosure", "id": "SL-KS22-JP-FY", "candidate_id": "CD-KS22",
+    "party_id": "P-KANSAI", "region": "JP", "period_key": "FY2025",
+    "fiscal_year_label": "FY2025JP", "period_start": "2025-04-01", "period_end": "2026-03-31",
+    "currency": "JPY", "amount": 42000000000, "revenue_kind": "booked",
+    "source_id": "S-AR-KANSAI", "note": "日本财年（4月至次年3月），按历表归一到 FY2025"
+  },
+  {
+    "kind": "salesdisclosure", "id": "SL-X9-GIANT-US-2025", "candidate_id": "CD-X9",
+    "party_id": "P-GIANT", "region": "US", "period_key": "FY2025",
+    "fiscal_year_label": "FY2025", "period_start": "2025-01-01", "period_end": "2025-12-31",
+    "currency": "USD", "amount": 600000000, "revenue_kind": "booked",
+    "includes_partner_share": true, "partner_party_id": "P-KANSAI",
+    "partner_share_amount": 250000000,
+    "source_id": "S-AR-GIANT", "note": "含代收合作方 Kansai 份额，应扣除"
+  },
+  {
+    "kind": "salesdisclosure", "id": "SL-X9-KANSAI-US-2025", "candidate_id": "CD-X9",
+    "party_id": "P-KANSAI", "region": "US", "period_key": "FY2025",
+    "fiscal_year_label": "FY2025JP", "period_start": "2025-04-01", "period_end": "2026-03-31",
+    "currency": "USD", "amount": 300000000, "revenue_kind": "booked",
+    "source_id": "S-AR-KANSAI", "note": "共同开发且未独占切分，与 Giant 同期同域双计 -> 冲突挂起"
+  },
+  {
+    "kind": "salesdisclosure", "id": "SL-NG07-US-GIANT-IC-H2", "candidate_id": "CD-NG07",
+    "party_id": "P-GIANT", "region": "US", "period_key": "FY2025",
+    "fiscal_year_label": "FY2025", "period_start": "2025-07-01", "period_end": "2025-12-31",
+    "currency": "USD", "amount": 120000000, "revenue_kind": "booked",
+    "counterparty_party_id": "P-NORDIC",
+    "source_id": "S-AR-GIANT",
+    "note": "并购生效(2025-07-01)后 Giant 与 Nordic 已同属 G-GIANT，该内部销售须抵销；生效日前二者不同集团"
+  }
+]

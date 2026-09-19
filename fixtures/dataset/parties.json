@@ -1,0 +1,9 @@
+[
+  {"kind": "party", "id": "P-HELIX", "name": "Helix 赫利克斯制药", "aliases": ["Helix Pharma", "赫利克斯"], "group_id": "G-HELIX", "country": "CN"},
+  {"kind": "party", "id": "P-BRX", "name": "BiogenRx Inc.", "aliases": ["BiogenRx", "BRX"], "group_id": "G-BRX", "country": "US"},
+  {"kind": "party", "id": "P-GIANT", "name": "Giant Pharma Group", "aliases": ["Giant"], "group_id": "G-GIANT", "country": "US"},
+  {"kind": "party", "id": "P-NORDIC", "name": "Nordic Labs A/S", "aliases": ["Nordic"], "group_id": "G-NORDIC", "country": "DK"},
+  {"kind": "party", "id": "P-NORDIC-SUB", "name": "Nordic Sales ApS", "aliases": ["Nordic Sales Co"], "group_id": "G-NORDIC", "country": "DK"},
+  {"kind": "party", "id": "P-KANSAI", "name": "Kansai Pharma KK", "aliases": ["Kansai"], "group_id": "G-KANSAI", "country": "JP"},
+  {"kind": "party", "id": "P-JV", "name": "SinoNordic JV", "aliases": ["SN JV"], "group_id": "G-JV", "party_type": "jv", "country": "CN"}
+]

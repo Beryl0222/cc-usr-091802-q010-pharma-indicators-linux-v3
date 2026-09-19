@@ -1,0 +1,30 @@
+[
+  {
+    "kind": "candidate", "id": "CD-HLX001", "compound_id": "CMP-KLK5",
+    "code": "HLX-001",
+    "names_by_jurisdiction": {"CN": "可利珠单抗注射液", "US": "Klazekinra", "EU": "Klazekinra", "JP": "クラゼキンラ"},
+    "aliases": ["KLK5 mAb", "BIO-77 (BiogenRx code)"],
+    "originator_party_ids": ["P-HELIX"], "novelty_class": "first-in-class"
+  },
+  {
+    "kind": "candidate", "id": "CD-KS22", "compound_id": "CMP-BRAF2",
+    "code": "KS-22",
+    "names_by_jurisdiction": {"JP": "カンサラフィブ"},
+    "aliases": ["Kansai-22"],
+    "originator_party_ids": ["P-KANSAI"], "novelty_class": "me-too"
+  },
+  {
+    "kind": "candidate", "id": "CD-NG07", "compound_id": "CMP-IL17",
+    "code": "NG-07",
+    "names_by_jurisdiction": {"EU": "Nordikizumab", "US": "Nordikizumab"},
+    "aliases": ["IL17-BsAb", "GIANT-07 (post-acquisition code)"],
+    "originator_party_ids": ["P-NORDIC"], "novelty_class": "first-in-class"
+  },
+  {
+    "kind": "candidate", "id": "CD-X9", "compound_id": "CMP-X9",
+    "code": "X-9",
+    "names_by_jurisdiction": {"US": "Xenoride"},
+    "aliases": ["X-nine"],
+    "originator_party_ids": ["P-GIANT", "P-KANSAI"], "novelty_class": "first-in-class"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "periods": [
+    {
+      "period_id": "FY2025",
+      "label": "2025 规划监测统计期",
+      "sales_period_key": "FY2025",
+      "rulebook_version": "RB-2026",
+      "blockbuster_threshold_usd": 1000000000,
+      "threshold_ref_date": "2025-12-31"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "kind": "relation", "id": "R-LIC-HLX-BRX", "candidate_id": "CD-HLX001",
+    "relation_type": "license",
+    "grantor_party_id": "P-HELIX", "grantee_party_id": "P-BRX",
+    "regions": ["US"],
+    "valid": {"start": "2022-04-01", "end": null},
+    "revenue_kind_for_grantee": "booked", "revenue_kind_for_grantor": "royalty",
+    "title": "Helix 将美国商业化权利许可给 BiogenRx，自行保留权利金",
+    "confidential": true,
+    "source_id": "S-CONTRACT"
+  },
+  {
+    "kind": "relation", "id": "R-CODEV-X9", "candidate_id": "CD-X9",
+    "relation_type": "codevelopment",
+    "grantor_party_id": "P-GIANT", "grantee_party_id": "P-KANSAI",
+    "regions": ["US"],
+    "valid": {"start": "2019-03-01", "end": null},
+    "title": "Giant 与 Kansai 共同开发 X9，美国权利未做独占切分",
+    "source_id": "S-PRESS-BRX"
+  },
+  {
+    "kind": "relation", "id": "R-ACQ-NORDIC", "candidate_id": "CD-NG07",
+    "relation_type": "acquisition",
+    "grantor_party_id": "P-GIANT", "grantee_party_id": "P-NORDIC",
+    "regions": [],
+    "valid": {"start": "2025-07-01", "end": null},
+    "title": "Giant 自 2025-07-01 起收购 Nordic（仅影响该日后的集团归属与抵销）",
+    "source_id": "S-MNA"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "kind": "keydiscovery", "id": "KD-HLX001", "candidate_id": "CD-HLX001", "compound_id": "CMP-KLK5",
+    "title": "首次发现 KLK5 选择性抑制可纠正 Netherton 综合征 LEKTI 缺陷",
+    "discovered_on": "2019-11-02", "party_id": "P-HELIX", "priority_weight": 1.0,
+    "novelty_claim": "new-target",
+    "source_id": "S-JOURNAL"
+  },
+  {
+    "kind": "keydiscovery", "id": "KD-NG07", "candidate_id": "CD-NG07", "compound_id": "CMP-IL17",
+    "title": "首次构建同时阻断 IL-17A/IL-17F 的双特异性抗体",
+    "discovered_on": "2017-04-18", "party_id": "P-NORDIC", "priority_weight": 1.0,
+    "novelty_claim": "new-mechanism",
+    "source_id": "S-JOURNAL"
+  },
+  {
+    "kind": "keydiscovery", "id": "KD-X9-A", "candidate_id": "CD-X9", "compound_id": "CMP-X9",
+    "title": "Giant 主张其首先解析 X9 通路（实验记录日期）",
+    "discovered_on": "2018-02-10", "party_id": "P-GIANT", "priority_weight": 0.6,
+    "novelty_claim": "new-target",
+    "source_id": "S-PRESS-BRX"
+  },
+  {
+    "kind": "keydiscovery", "id": "KD-X9-B", "candidate_id": "CD-X9", "compound_id": "CMP-X9",
+    "title": "Kansai 主张其更早完成 X9 化合物筛选（另一套记录）",
+    "discovered_on": "2018-01-25", "party_id": "P-KANSAI", "priority_weight": 0.6,
+    "novelty_claim": "new-target",
+    "source_id": "S-PRESS-BRX"
+  }
+]

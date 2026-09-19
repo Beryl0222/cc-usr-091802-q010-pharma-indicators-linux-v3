@@ -1,0 +1,38 @@
+[
+  {
+    "kind": "approval", "id": "AP-HLX001-CN", "candidate_id": "CD-HLX001",
+    "indication_id": "IND-HLX001-NS", "jurisdiction": "CN", "agency": "NMPA",
+    "decision_date": "2025-06-30", "action": "approval", "first_in_jurisdiction_flag": true,
+    "source_id": "S-NMPA"
+  },
+  {
+    "kind": "approval", "id": "AP-HLX001-US", "candidate_id": "CD-HLX001",
+    "indication_id": "IND-HLX001-NS", "jurisdiction": "US", "agency": "FDA",
+    "decision_date": "2025-09-12", "action": "approval", "first_in_jurisdiction_flag": true,
+    "source_id": "S-FDA"
+  },
+  {
+    "kind": "approval", "id": "AP-NG07-US", "candidate_id": "CD-NG07",
+    "indication_id": "IND-NG07-PSO", "jurisdiction": "US", "agency": "FDA",
+    "decision_date": "2024-10-20", "action": "approval", "first_in_jurisdiction_flag": true,
+    "source_id": "S-FDA"
+  },
+  {
+    "kind": "approval", "id": "AP-NG07-EU", "candidate_id": "CD-NG07",
+    "indication_id": "IND-NG07-PSO", "jurisdiction": "EU", "agency": "EMA",
+    "decision_date": "2025-01-15", "action": "approval", "first_in_jurisdiction_flag": true,
+    "source_id": "S-FDA"
+  },
+  {
+    "kind": "approval", "id": "AP-KS22-JP", "candidate_id": "CD-KS22",
+    "indication_id": "IND-KS22-MEL", "jurisdiction": "JP", "agency": "PMDA",
+    "decision_date": "2025-04-10", "action": "approval", "first_in_jurisdiction_flag": true,
+    "source_id": "S-FDA"
+  },
+  {
+    "kind": "approval", "id": "AP-X9-US", "candidate_id": "CD-X9",
+    "indication_id": "IND-X9-GM", "jurisdiction": "US", "agency": "FDA",
+    "decision_date": "2025-12-01", "action": "approval", "first_in_jurisdiction_flag": true,
+    "source_id": "S-FDA"
+  }
+]

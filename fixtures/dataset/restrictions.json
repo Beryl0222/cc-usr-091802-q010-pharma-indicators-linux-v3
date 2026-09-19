@@ -1,0 +1,9 @@
+[
+  {
+    "kind": "restriction", "id": "RS-CONTRACT-HLX-BRX",
+    "record_id": "R-LIC-HLX-BRX", "record_kind": "relation",
+    "minimum_clearance": 2,
+    "allowed_actors": ["analyst.li", "scientist.zhou", "system"],
+    "reason": "未公开区域许可与分成合同，仅授权人员可看原文"
+  }
+]

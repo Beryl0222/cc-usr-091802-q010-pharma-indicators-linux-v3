@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "recorded_at": "2026-08-15T09:00:00Z",
+      "kind": "approval",
+      "actor_id": "analyst.li",
+      "data": {
+        "kind": "approval", "id": "AP-HLX001-US", "candidate_id": "CD-HLX001",
+        "indication_id": "IND-HLX001-NS", "jurisdiction": "US", "agency": "FDA",
+        "decision_date": "2025-08-29", "action": "correction", "first_in_jurisdiction_flag": true,
+        "source_id": "S-FDA-CORR"
+      }
+    },
+    {
+      "recorded_at": "2027-02-12T09:00:00Z",
+      "kind": "approval",
+      "actor_id": "analyst.li",
+      "data": {
+        "kind": "approval", "id": "AP-HLX001-JP", "candidate_id": "CD-HLX001",
+        "indication_id": "IND-HLX001-NS", "jurisdiction": "JP", "agency": "PMDA",
+        "decision_date": "2027-01-20", "action": "approval", "first_in_jurisdiction_flag": true,
+        "source_id": "S-PMDA"
+      }
+    },
+    {
+      "recorded_at": "2026-09-02T09:00:00Z",
+      "kind": "salesdisclosure",
+      "actor_id": "analyst.li",
+      "data": {
+        "kind": "salesdisclosure", "id": "SL-HLX001-CN-2025", "candidate_id": "CD-HLX001",
+        "party_id": "P-HELIX", "region": "CN", "period_key": "FY2025",
+        "fiscal_year_label": "FY2025", "period_start": "2025-01-01", "period_end": "2025-12-31",
+        "currency": "CNY", "amount": 2000000000, "revenue_kind": "booked",
+        "source_id": "S-RESTATE",
+        "note": "2025 年报重述后中国区产品销售由 21 亿更正为 20 亿（新版本，旧值保留可复现）"
+      }
+    }
+  ]
+}

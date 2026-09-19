@@ -1,0 +1,7 @@
+[
+  {"kind": "indication", "id": "IND-HLX001-NS", "candidate_id": "CD-HLX001", "term": "Netherton 综合征", "icd": "Q80.3", "oncology_flag": false},
+  {"kind": "indication", "id": "IND-HLX001-AD", "candidate_id": "CD-HLX001", "term": "特应性皮炎", "icd": "L20", "oncology_flag": false},
+  {"kind": "indication", "id": "IND-KS22-MEL", "candidate_id": "CD-KS22", "term": "黑色素瘤", "icd": "C43", "oncology_flag": true},
+  {"kind": "indication", "id": "IND-NG07-PSO", "candidate_id": "CD-NG07", "term": "斑块状银屑病", "icd": "L40.0", "oncology_flag": false},
+  {"kind": "indication", "id": "IND-X9-GM", "candidate_id": "CD-X9", "term": "X9 相关罕见代谢病", "icd": "E70", "oncology_flag": false}
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "opinion", "id": "OP-X9-GIANT", "subject": "fic-attribution",
+    "candidate_id": "CD-X9", "proponent": "Giant 化学部",
+    "claim": "X9 通路由 Giant 于 2018-02 首次解析，首创应归 Giant",
+    "proposed": {"is_first_in_class": true, "originator_party_id": "P-GIANT"},
+    "evidence_refs": ["KD-X9-A"], "confidence": "medium",
+    "source_id": "S-PRESS-BRX"
+  },
+  {
+    "kind": "opinion", "id": "OP-X9-KANSAI", "subject": "fic-attribution",
+    "candidate_id": "CD-X9", "proponent": "Kansai 研究开发本部",
+    "claim": "Kansai 的化合物筛选记录早至 2018-01，首创应归 Kansai",
+    "proposed": {"is_first_in_class": true, "originator_party_id": "P-KANSAI"},
+    "evidence_refs": ["KD-X9-B"], "confidence": "medium",
+    "source_id": "S-PRESS-BRX"
+  }
+]
